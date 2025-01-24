@@ -1,0 +1,356 @@
+
+.button-foot {
+    width: 80px;
+    height: 30px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 16px;
+    margin: 8px;
+}
+
+.footer-section {
+    background-color: #000;
+}
+
+.foot-para {
+    color: #787878;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+.foot-para-net {
+    color: red;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
+.num {
+    text-decoration: underline;
+}
+
+.faq-section {
+    background-color: #000;
+}
+
+.faq-email-box {
+    width: 180px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    padding: 4px;
+}
+
+.faq-get-started {
+    width: 120px;
+    height: 40px;
+    background-color: red;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 16px;
+    border-width: 0px;
+    border-radius: 6px;
+    margin: 8px;
+}
+
+.faq-hide {
+    background-color: #363636;
+    width: 100%;
+    padding: 5px;
+}
+
+.faq-head {
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.faq-para {
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 400;
+    align-self: center;
+}
+
+.plus {
+    color: #fff;
+    width: 70px;
+    align-self: flex-start;
+    font-weight: 600;
+}
+
+.faq-para-2 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Roboto';
+}
+
+.faq-card {
+    background-color: #5e5e5e;
+    width: 100%;
+    height: 50px;
+    padding: 5px;
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.third-section {
+    background-color: #000;
+}
+
+.para-third {
+    color: grey;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.tv-logo {
+    width: 220px;
+    height: 160px;
+}
+
+.card-cont-1 {
+    background-color: #003049;
+    width: 100%;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-cont-2 {
+    background-color: #003049;
+    width: 100%;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.head-third {
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.movie-section {
+    background-color: #000;
+}
+
+.card-cont {
+    background-color: transparent;
+    text-align: center;
+}
+
+.section-head {
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.card-1 {
+    background-image: url('https://res.cloudinary.com/dhjku3vlt/image/upload/v1732775321/devaraPost_c0srzm.jpg');
+    width: 220px;
+    height: 240px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 12px;
+}
+
+.card-2 {
+    background-image: url('https://res.cloudinary.com/dhjku3vlt/image/upload/v1732778151/baghee_qt35av.jpg');
+    width: 220px;
+    height: 240px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 12px;
+}
+
+.card-3 {
+    background-image: url('https://res.cloudinary.com/dhjku3vlt/image/upload/v1732786192/nayan_uuq4dr.png');
+    width: 220px;
+    border-radius: 12px;
+    height: 240px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-4 {
+    background-image: url('https://res.cloudinary.com/dhjku3vlt/image/upload/v1732786448/karyhi3_uhebos.jpg');
+    width: 220px;
+    border-radius: 12px;
+    height: 240px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-5 {
+    background-image: url('https://res.cloudinary.com/dhjku3vlt/image/upload/v1732786516/hkel_kn0hlo.jpg');
+    width: 220px;
+    height: 240px;
+    border-radius: 12px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-6 {
+    background-image: url('https://res.cloudinary.com/dhjku3vlt/image/upload/v1732786697/it_ends_pdf0dv.jpg');
+    width: 220px;
+    height: 240px;
+    background-size: cover;
+    display: flex;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.recent-btn {
+    width: 120px;
+    height: 30px;
+    background-color: red;
+    color: #fff;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 14px;
+    border-width: 0px;
+    border-radius: 6px;
+    margin: 8px;
+}
+
+.one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.n-logo {
+    width: 30px;
+    height: 30px;
+    border-top-left-radius: 12px;
+}
+
+.btn-of {
+    align-items: flex-end;
+}
+
+.nav-main {
+    display: flex;
+    flex-direction: column;
+}
+
+.n-logo-1 {
+    width: 30px;
+    height: 30px;
+    border-top-right-radius: 12px;
+}
+
+.main-cont {
+    background-image: linear-gradient(65deg, black, transparent), url('https://dkr0pu7ej5xex.cloudfront.net/wp-content/uploads/2017/04/24135159/Netflix-Background.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.horizontal {
+    color: #fff;
+    width: 40px;
+}
+
+.netImage {
+    width: 140px;
+    height: 60px;
+}
+
+.nav-cont {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-lan {
+    width: 80px;
+    height: 30px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 16px;
+    margin: 8px;
+}
+
+.cont {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-in {
+    width: 80px;
+    height: 30px;
+    background-color: red;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 16px;
+    border-width: 0px;
+    border-radius: 6px;
+    margin: 8px;
+}
+
+.head {
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.para-2 {
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 14px;
+}
+
+.email-box {
+    width: 180px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #fff;
+}
+
+.get-started {
+    width: 120px;
+    height: 40px;
+    background-color: red;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 16px;
+    border-width: 0px;
+    border-radius: 6px;
+    margin: 8px;
+}
